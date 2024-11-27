@@ -29,15 +29,15 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Interactions',
+      label: 'Commands',
       items: [
-        'interactions/overview',
-        'interactions/send',
-        'interactions/balance',
-        'interactions/publicLeaderboard',
-        'interactions/help',
-        'interactions/generate',
-        'interactions/leaderboard',
+        'commands/overview',
+        'commands/send',
+        'commands/balance',
+        'commands/publicLeaderboard',
+        'commands/help',
+        'commands/generate',
+        'commands/leaderboard',
       ],
     },
     {

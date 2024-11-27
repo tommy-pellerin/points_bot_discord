@@ -34,9 +34,9 @@ And on our website, you will be able to see all movements and then distribute po
 ### 3. Display balance 🧮
   Members can display **their own balance of points**.
 
-### 4. Display top 10 admin Leaderboard and public Leaderboard 📈📊
-  Admin can display **in private** a top 10 leaderboard with members details.
-  Member can display **in private** a top 10 leaderboard without members details.
+### 4. Display top 10 members Leaderboard for admin and public 📈📊
+  Admin can display **in private** a top 10 members leaderboard with members details.
+  Member can display **in private** a top 10 members leaderboard without members details.
 
 ### 5. Store points in a server 💾
   Members points are saved in a server.
